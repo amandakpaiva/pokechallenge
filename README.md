@@ -1,5 +1,5 @@
 
-# pokechallenge
+# Pokechallenge
 A simple pokedex
 
 
