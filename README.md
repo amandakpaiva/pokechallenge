@@ -16,6 +16,15 @@ List favorites.
 API: https://pokeapi.co/
 
 
+Requirements
+iOS 9.0+
+Xcode 
+
+Downloading and installing the project
+You'll need a few things before getting started. Make sure you have the latests Xcode installed from the AppStore or Developer Site. Then you can clone the project with the following command:
+
+git clone https://github.com/
+
 # pokechallenge
 A simple pokedex
 
